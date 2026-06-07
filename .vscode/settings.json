@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.env.windows": {
+    "ALL_PROXY": null,
+    "GIT_HTTP_PROXY": null,
+    "GIT_HTTPS_PROXY": null
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda"
+}
